@@ -34,7 +34,7 @@ The Movie Recommendation System project aims to enhance the user experience by p
    When click certain movie, it will give recommendation of similar movie.  
    To get list of similar movie, we use Term Frequency & Inverse Document Frequency.  
    For example, we try to know 3 movies that is similar with movie title "John Carter" :  
-   <img src="./image/movie2.png" alt="" width = "300"/>
+   <img src="./image/movie2.png" alt="" width = "400"/>
 3. Collaborative filtering  
    Predict what rating the user gonna give.  
    <img src="./image/ML+Process.png" alt="" width = "600"/>
